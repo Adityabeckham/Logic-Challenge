@@ -1,4 +1,9 @@
-const array = [3, 1, 3, 2, 1];
+// Hapus Duplikat Tapi Tetap Urutan
+
+// Diberikan array A. Buat array baru yang hanya menyimpan kemunculan pertama setiap nilai (urutan tetap).
+// Contoh: [3,1,3,2,1] → [3,1,2]
+
+const array = [3,1,3,2,1];
 
 function duplikat(A) {
   let B = [];
@@ -7,10 +12,11 @@ function duplikat(A) {
     if (!B.includes(A[i])) {
       B.push(A[i]);
     }
+    B.sort();
   }
-  return B.sort();
-}
+   console.log(B);
+}                   
+    
+ duplikat(array);
 
-const hasil = duplikat(array);
 
-console.log(hasil);
