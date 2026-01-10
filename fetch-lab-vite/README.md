@@ -36,7 +36,7 @@ Buka browser di http://localhost:5173/.
 Struktur folder yang rapi:
 
 
-fetch-lab/
+fetch-lab-vite/
 ├─ index.html
 ├─ style.css
 ├─ src/
