@@ -33,8 +33,7 @@ npm install
 npm run dev
 Buka browser di http://localhost:5173/.
 
-Struktur folder yang rapi:
-
+Struktur folder:
 
 fetch-lab-vite/
 ├─ public
@@ -81,5 +80,5 @@ Font system-ui modern, hover animasi pada tombol dan logo
 Layout responsif untuk mobile & desktop
 
 Contoh tampilan:
+<img width="2070" height="1294" alt="fetch-lab-vite" src="https://github.com/user-attachments/assets/2b229e67-5994-420d-b731-24991e9711fa" />
 
-<img width="2070" height="1294" alt="fetch-lab-vite" src="https://github.com/user-attachments/assets/ddb9f848-2d05-4009-b879-66eba1991769" />
