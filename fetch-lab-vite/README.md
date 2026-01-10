@@ -37,13 +37,12 @@ Struktur folder yang rapi:
 
 
 fetch-lab-vite/
-├─ index.html
-├─ style.css
+├─ public
 ├─ src/
-│  ├─ main.js
-│  └─ api/
+│  ├─ api/
 │     ├─ client.js
 │     └─ endpoints.js
+│  └─ main.js
 
 
 💻 Lab Praktikum
