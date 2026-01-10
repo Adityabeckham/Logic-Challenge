@@ -35,8 +35,7 @@ Buka browser di http://localhost:5173/.
 
 Struktur folder yang rapi:
 
-css
-Salin kode
+
 fetch-lab/
 ├─ index.html
 ├─ style.css
