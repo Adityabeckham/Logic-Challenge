@@ -44,9 +44,7 @@ fetch-lab/
 │  └─ api/
 │     ├─ client.js
 │     └─ endpoints.js
-└─ assets/
-   └─ logo.png
-Salin helper function ke client.js, fungsi per-endpoint ke endpoints.js, dan tambahkan UI di main.js.
+
 
 💻 Lab Praktikum
 Lab 1 — GET list
@@ -64,8 +62,6 @@ Pastikan muncul HTTP error message.
 Lab 4 — POST JSON
 Kirim data:
 
-json
-Salin kode
 { "title": "Hello", "body": "World", "userId": 1 }
 Endpoint: https://jsonplaceholder.typicode.com/posts
 
