@@ -81,4 +81,5 @@ Font system-ui modern, hover animasi pada tombol dan logo
 Layout responsif untuk mobile & desktop
 
 Contoh tampilan:
-<img width="2070" height="1294" alt="fetch-lab-vite" src="https://github.com/user-attachments/assets/479932fa-bb4e-4b74-868e-726b7ba22b4a" />
+
+<img width="2070" height="1294" alt="fetch-lab-vite" src="https://github.com/user-attachments/assets/ddb9f848-2d05-4009-b879-66eba1991769" />
